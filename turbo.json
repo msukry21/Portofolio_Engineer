@@ -1,7 +1,11 @@
 {
   "tasks": {
+    "build": {
+      "dependsOn": ["^build"],
+      "outputs": ["./.next/**", "public/**"]
+    },
     "dev": {
-      "dependsOn": [],
+      "dependsOn": ["build"],
       "outputs": []
     }
   }
