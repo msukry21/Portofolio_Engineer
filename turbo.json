@@ -8,5 +8,8 @@
       "dependsOn": ["build"],
       "outputs": []
     }
+  },
+  "remoteCache": {
+    "signature": true
   }
 }

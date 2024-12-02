@@ -31,5 +31,6 @@
     "tailwindcss": "^3.4.15",
     "turbo": "^2.3.3"
   },
-  "packageManager": "pnpm@9.14.2"
+  "packageManager": "pnpm@9.14.2",
+  "$schema": "./package-schema.json"
 }

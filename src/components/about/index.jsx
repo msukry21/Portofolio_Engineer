@@ -69,11 +69,9 @@ const AboutDetails = () => {
         </ItemLayout> */}
 
         <ItemLayout className={"col-span-full"}>
-          <Image
-            className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=bootstrap,css,figma,firebase,git,github,html,js,mysql,nextjs,nodejs,npm,postgres,react,supabase,tailwind,vercel,vite,vscode,py`}
-            alt="CodeBucks"
-            loading="lazy"
+          <img
+            src="https://skillicons.dev/icons?i=bootstrap,css,figma,firebase,git,github,html,js,mysql,nextjs,nodejs,npm,postgres,react,supabase,tailwind,vercel,vite,vscode,py"
+            alt="Skill icons"
           />
         </ItemLayout>
 
