@@ -1,0 +1,15 @@
+{
+  "tasks": {
+    "build": {
+      "dependsOn": ["^build"],
+      "outputs": ["./.next/**", "public/**"]
+    },
+    "dev": {
+      "dependsOn": ["build"],
+      "outputs": []
+    }
+  },
+  "remoteCache": {
+    "signature": true
+  }
+}
