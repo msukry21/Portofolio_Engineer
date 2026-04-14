@@ -97,5 +97,6 @@ This project lives within the executive assistant environment:
 ## Credits
 
 - Original template: [CodeBucks — Next.js Creative Portfolio](https://github.com/codebucks27/Next.js-Creative-Portfolio-Website)
+- Tutorial reference: [YouTube — Portfolio Build](https://www.youtube.com/watch?v=aZZrEE_UsIk&t=2477s)
 - 3D Models: [Sketchfab](https://sketchfab.com/) (CC Attribution)
 - Skill Icons: [skillicons.dev](https://skillicons.dev)
